@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="trunk" key="DirectorySelectionPage.lastParent_https://210-pc/svn/philipp"/>
+	<item value="160" key="CommitDialog.location.y"/>
+	<item value="59" key="CommitDialog.location.x"/>
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="370" key="ChooseUrlDialog.size.y"/>
+	<item value="https://210-pc/svn/philipp" key="RepositorySelectionPage.lastRepository"/>
+	<item value="392" key="ChooseUrlDialog.location.x"/>
+	<item value="184" key="ChooseUrlDialog.location.y"/>
+	<item value="498" key="CommitDialog.size.y"/>
+	<item value="1163" key="CommitDialog.size.x"/>
+	<section name="CommitWizard">
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+		<item value="false" key="ShowCompare"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://210-PC/svn/philipp/"/>
+			<item value="https://210-PC/svn/Test/"/>
+		</list>
+	</section>
+</section>
